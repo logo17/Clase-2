@@ -71,6 +71,8 @@
         android:layout_marginBottom="16dp"
         android:text="@string/iniciar_sesion"
         android:enabled="false"
+        android:backgroundTint="@color/button_background_color"
+        android:textColor="@color/button_text_color"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/textInputContainer"
         app:layout_constraintHorizontal_bias="0.5"

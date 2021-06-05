@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!--  Enabled colors  -->
+    <color name="enabled_button_color">#0038FF</color>
+    <color name="enabled_button_text_color">#FFFFFF</color>
+
+    <!--  Disabled colors  -->
+    <color name="disabled_button_color">#7A93ED</color>
+    <color name="disabled_button_text_color">#555555</color>
 </resources>
